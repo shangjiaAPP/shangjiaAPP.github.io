@@ -1,0 +1,114 @@
+body{
+	background: #f7f7f7;
+}
+.top{
+	width: 100%;
+	height: 0.88rem;
+	background: #fc313a;
+	position: relative;
+}
+.top p{
+	font-size: .4rem;
+	text-align: center;
+	line-height: 0.88rem;
+	color: #fff;
+	font-weight: 600;
+}
+.top-img{
+	width: 0.15rem;
+	height: 0.2rem;
+	background-image: url('../img/yj1.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 100%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	left: 0.25rem;
+}
+.neirong{
+	width: 100%;
+	height: 3.50rem;
+	background: #fff;
+	padding: 0 0.25rem;
+	font-size: 0.24rem;
+	color: #171717;
+}
+.one{
+	width: 100%;
+	height: 0.74rem;
+	line-height: 0.74rem;
+	float: left;
+}
+.one-zi{
+	display: inline-block;
+	height: 100%;
+	font-size: 0.24rem;
+	color: #171717;
+}
+.one-zi i{
+	line-height: 0.74rem;
+	font-size: 0.24rem;
+}
+.one-zi2{
+	width: 100%;
+	height: 100%;
+}
+.one-zi input{
+	display: inline-block;
+	border: 0;
+	width: 90%;
+	height: 100%;
+	line-height: 0.74rem;
+	font-size: 0.24rem;
+}
+.one-right{
+	float: right;
+	width: 1.06rem;
+	height: 100%;
+	position: relative;
+}
+.one-img{
+	display: inline-block;
+    width: 0.15rem;
+    height: 0.2rem;
+    background-image: url(../img/yj2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+.fenge{
+	width: 5.8rem;
+	height: 0.02rem;
+	background: url('../img/yjr_fg.png') ;
+	background-size: cover;
+	float: right;
+}
+.next{
+	width: 7.02rem;
+	height: 0.7rem;
+	background:-webkit-linear-gradient(left,#fd313a,#fd8033);
+	border-radius: 5px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	bottom: 0.3rem;
+	font-size: 0.24rem;
+	text-align: center;
+	line-height: 0.7rem;
+	color: #fff;
+	font-weight: 600;
+}
+
+
+
+
+
+

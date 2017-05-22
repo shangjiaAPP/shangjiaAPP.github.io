@@ -1,0 +1,144 @@
+body{
+	background: #f7f7f7;
+}
+.top{
+	width: 100%;
+	height: 0.88rem;
+	background: #fc313a;
+	position: relative;
+}
+.top p{
+	padding-right: 0.25rem;
+	font-size: .4rem;
+	text-align: center;
+	line-height: 0.88rem;
+	color: #fff;
+	font-weight: 600;
+}
+.title{
+	display: inline-block;
+	float: right;
+	font-size: .2rem;
+	line-height: 0.88rem;
+	float: right;
+}
+.top-img{
+	width: 0.15rem;
+	height: 0.2rem;
+	background-image: url('../img/yj1.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 100%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	left: 0.25rem;
+}
+.chenumber{
+	width: 100%;
+	background: #fff;
+	height: 0.74rem;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	padding: 0 0.2rem;
+	font-size: 0.24rem;
+	color: #171717;
+	line-height: 0.74rem;
+	position: relative;
+}
+.chenumber span{
+	float: left;
+}
+.chepai{
+	width: 1.20rem;
+	height: 0.6rem;
+	border-radius: 0.1rem;
+	background: #fc313a;
+	float: left;
+	margin-top: 0.07rem;
+	margin-left: 0.38rem;
+	text-align: center;
+	color: #fff;
+	line-height: 0.6rem;
+}
+.chepai i{
+	display: inline-block;
+	width: 0;
+	height: 0;
+	border-top: 0.1rem solid #fff;
+	border-left: 0.1rem solid transparent;
+	border-right: 0.1rem solid transparent;
+	margin-top:0.22rem; 
+}
+.chenumber input{
+	width: 4.40rem;
+	height: 100%;
+	padding-left: 0.12rem;
+	border: 0;
+}
+.che-img{
+	display: inline-block;
+    width: 0.15rem;
+    height: 0.2rem;
+    background-image: url(../img/yj2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+   	float: right;
+   	margin-top: 0.3rem;
+}
+.one{
+	width: 100%;
+	height: 0.74rem;
+	line-height: 0.74rem;
+	float: left;
+	font-size: 0.24rem;
+	color: #171717;
+	padding: 0 0.2rem;
+	background: #fff;
+}
+.one-zi{
+	display: inline-block;
+	height: 100%;
+	font-size: 0.24rem;
+	color: #171717;
+}
+.one-zi i{
+	line-height: 0.74rem;
+	font-size: 0.24rem;
+}
+.one-right{
+	float: right;
+	width: 1.06rem;
+	height: 100%;
+	position: relative;
+}
+.one-img{
+	display: inline-block;
+    width: 0.15rem;
+    height: 0.2rem;
+    background-image: url(../img/yj2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+.box{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	overflow: hidden;
+}
+.fenge{
+	width: 5.8rem;
+	height: 0.02rem;
+	background: url('../img/yjr_fg.png') ;
+	background-size: cover;
+	float: right;
+	margin: 0 0.2rem;
+}

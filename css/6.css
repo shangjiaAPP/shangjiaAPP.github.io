@@ -1,0 +1,264 @@
+body{
+	background:#f7f7f7;
+}
+.top{
+	width: 100%;
+	height: 0.88rem;
+	background: #fc313a;
+	float: left;
+	padding: 0 0.25rem;
+}
+.top>.left{
+	width: 0.12rem;
+	height: 0.21rem;
+	background: url('../img/zzl-icon2.png') center center no-repeat;
+	background-size: 100%;
+	margin-top: 0.3rem;
+	float: left;
+}
+.top>.middle{
+	line-height: 0.88rem;
+	color: #fff;
+	font-family: "苹方";
+	font-weight: 600;
+	font-size: 0.4rem;
+	float: left;
+	margin-left: 2rem;
+}
+.top>.right{
+	width: 0.34rem;
+	height: 0.31rem;
+	background: url('../img/zzl-icon1.png') center center no-repeat;
+	background-size: 100%;
+	margin-top: 0.3rem;
+	float: right;
+}
+
+.tianxie{
+	width: 100%;
+	height: 0.74rem;
+	background: #fff;
+	float: left;
+	font-family: "苹方";
+	font-size: 0.24rem;
+	text-align: center;
+	line-height: 0.74rem;
+}
+
+.neirong1{
+	width: 100%;
+	height: 5.07rem;
+	background: #fff;
+	float: left;
+	margin-top: 0.02rem;
+	
+}
+.neirong1-1{
+	width: 100%;
+	height: 3.56rem;
+	background: #fff;
+	float: left;
+	padding: 0 0.25rem;
+	border-bottom: 0.03em solid #f7f7f7;
+}
+.neirong1-1 .bt{
+	width: 100%;
+	height: 0.85rem;
+	font-family: "苹方";
+	font-size: 0.26rem;
+	font-weight: 700;
+	line-height: 0.85rem;
+}
+.neirong1-1 .tu{
+	width: 3.1rem;
+	height: 2.4rem;
+	float: left;
+}
+.neirong1-1 .tu img{
+	width:100%;
+	height:100%;
+}
+.neirong1-1 .shangchuan{
+	width: 3.8rem;
+	height: 2.4rem;
+	float: left;
+	padding-left: 0.25rem;
+	/* padding-top: 0.1rem; */
+}
+.shangchuan-zi{
+	font-size: 0.26rem;
+	font-family: "苹方";
+	font-weight: 500;
+	color: #c8c8c8;
+}
+.anniu{
+	width: 1.76rem;
+	height: 0.8rem;
+	background: #fc313a;
+	border-radius: 0.1rem;
+	margin-top: 0.8rem;
+	font-size: 0.26rem;
+	font-family: "苹方";
+	font-weight: 600;
+	text-align: center;
+	line-height: 0.8rem;
+}
+.neirong1-2{
+	width: 100%;
+	height: 1.51rem;
+	background: #fff;
+	float: left;
+	padding: 0 0.25rem;
+}
+.neirong1-2 .shang{
+	width: 100%;
+	height: 50%;
+	border-bottom: 0.03rem solid #f7f7f7;
+}
+.neirong1-2 .xia{
+	width: 100%;
+	height: 50%;
+}
+.zi-z{
+	font-size: 0.24rem;
+	font-family: "苹方";
+	line-height: 0.75rem;
+	float: left;
+}
+/* .neirong1-2 .zi-y{
+	font-size: 0.24rem;
+	font-family: "苹方";
+	line-height: 0.75rem;
+	float: right
+}
+ */
+.kuang1{
+	float: right;
+	height: 100%;
+	width: 75%;
+	border: 0 ;
+	text-align: right;
+	font-size: 0.24rem;
+	font-family: "苹方";
+	line-height: 0.75rem;
+}
+.neirong2{
+	width: 100%;
+	height: auto;
+	margin-top: 0.3rem;
+	background: #fff;
+	float: left;
+}
+.neirong2-1{
+	width: 100%;
+	height: 4.35rem;
+	border-bottom: 0.03rem solid #f7f7f7;
+	padding: 0 0.25rem;
+}
+.neirong2-1 .shang{
+	width: 100%;
+	height: 0.75rem;
+	border-bottom: 0.03rem solid #f7f7f7;
+}
+.neirong2-1 .shang-1{
+	font-family: "苹方";
+	font-size: 0.24rem;
+	font-weight: 500;
+	line-height: 0.75rem;
+	float: left;
+}
+.neirong2-1 .shang-2{
+	width: 1.45rem;
+	height: 100%;
+	float: right;
+	font-size: 0.24rem;
+	font-weight: 500;
+	line-height: 0.75rem;
+}
+.yuan1{
+	width: 0.26rem;
+	height: 0.26rem;
+	background: url('../img/zzl-yuan2.png')center center no-repeat;
+	background-size: 100%;
+	float: left;
+	margin-top: 0.25rem;
+	margin-right: 0.1rem;
+}
+.yuan2{
+	width: 0.26rem;
+	height: 0.26rem;
+	background: url('../img/zzl-yuan1.png')center center no-repeat;
+	background-size: 100%;
+	float: left;
+	margin-top: 0.25rem;
+	margin-right: 0.1rem;
+}
+
+.neirong2-2{
+	width: 100%;
+	height: 3rem;
+	padding: 0 0.25rem;
+}
+.neirong2-2 .shang{
+	width: 100%;
+	height: 25%;
+	border-bottom: 0.03rem solid #f7f7f7;
+}
+.neirong2-2 .xia{
+	width: 100%;
+	height: 25%;
+}
+.youxiaoqi{
+	width: 1.7rem;
+	height: 100%;
+	float: right;
+	font-size: 0.24rem;
+	font-weight: 500;
+	line-height: 0.75rem;
+}
+
+
+footer{
+	width: 100%;
+	height: 1.3rem;
+	float: left;
+	padding: 0.28rem 0.25rem;
+}
+.finish{
+	width: 100%;
+	height: 100%;
+	background: -webkit-linear-gradient(bottom right,#fd7f33,#fd333a);
+	border-radius: 0.1rem;
+	font-size: 0.26rem;
+	text-align: center;
+	line-height: 0.7rem;
+	color: #fff;
+	font-weight: 600;
+	font-family: "苹方";
+	position: relative;
+
+}
+.dian{
+	width: 0.12rem;
+	height: 0.12rem;
+	border-radius: 50%;
+	background: #fff;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	left: 2.6rem;
+	border: 0.03rem solid rgba(253, 113, 114, .6);
+}
+.dian1{
+	width: 0.12rem;
+	height: 0.12rem;
+	border-radius: 50%;
+	background: #fff;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	right: 2.6rem;
+	border: 0.03rem solid rgba(253, 113, 114, .6);
+}
