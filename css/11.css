@@ -91,16 +91,65 @@ a{
 .pict .pict-right{
 	width: 1.3rem;
 	height: 0.5rem;
-	background: blue;
+	/* background: blue; */
 	margin-top: 0.32rem;
 	float: left;
 	margin-left: 0.3rem;
 }
-.pict-right .span{
-	width: 1rem;
+.baobao{
+	width: auto;
 	height: 100%;
 	font-size: 0.1rem;
+	line-height: 0.5rem;
 	color: #ccc;
+	float: left;	
+}
+.baobao2{
+	width: 0.24rem;
+	height: 0.24rem;
+	background: url('../img/hly-pic5.png') center center no-repeat;
+	background-size: 100%;
 	float: left;
-	
+	margin-left: 0.1rem;
+	margin-top: 0.14rem;
+}
+.baobao3{
+	width: 0.24rem;
+	height: 0.24rem;
+	background: url('../img/hly-pic6.png') center center no-repeat;
+	background-size: 100%;
+	float: left;
+	margin-left: 0.1rem;
+	margin-top: 0.14rem;
+}
+.main{
+	width: 7rem;
+	height: 1.88rem;
+	/* background: pink; */
+	float: right;
+	border-top: 0.01rem solid #ccc;
+}
+.main-top{
+	width: 100%;
+	height: 1.53rem;
+	/* background: blue; */
+}
+.main-top1{
+	width: 5rem;
+	height: 0.53rem;
+	/* background: red; */
+
+}
+.pict4{
+	width: 0.46rem;
+	height: 0.46rem;
+	margin-top: 0.2rem;
+}
+.main-top1 span{
+	font-size: 0.12rem;
+	color: #000;
+}
+.ta{
+	font-size: 0.12rem;
+	margin-left: 0.2rem;
 }
