@@ -36,120 +36,196 @@
 a{
 	color: #fff;
 }
-.box{
+.canyin{
 	width: 100%;
 	height: 0.67rem;
-	background: #F7F7F6;
+	background: #ccc;
 }
-.box .left{
+.cy-left{
 	width: 50%;
 	height: 100%;
 	background: #F7F7F6;
 	float: left;
-	font-size: 0.14rem;
+	font-size: 0.12rem;
 	text-align: center;
-	color: #5E5D58;
+	line-height: 0.67rem;
 }
-.box .right{
+.cy-right{
 	width: 50%;
 	height: 100%;
-	background: #ffffff;
-	float: right;
-	font-size: 0.14rem;
+	background: #fff;
+	float: left;
+	font-size: 0.12rem;
 	text-align: center;
-	color: #5E5D58;
+	line-height: 0.67rem;
 }
-.null{
+
+
+.box{
 	width: 100%;
-	height: 3.83rem;
+	height: 3.65rem;
 	background: #F5F5F3;
-}
-.null .middle{
-	width: 7.3rem;
-	height: 3rem;
-	background: #FFFFFF;
-	margin-left: 0.1rem;
-	margin-top: 0.65rem;
 	border-radius: 0.2rem;
 }
-.null .middle .pict{
-	width: 2.86rem;
-	height: 1.1rem;
-	float: left;
-	background: red;
-	margin-left: 0.28rem;
+.box-bottom{
+	width: 7.3rem;
+	height: 3.23rem;
+	background: #fff;
+
+	margin-top: 0.4rem;
+	float: right;
 }
-.pict .pict-left{
-	width: 1.24rem;
-	height: 1.24rem;
-	background: url('../img/hly-pic3.png') center center no-repeat;
-	background-size: 100%;
+.box-pict{
+	width: 2.83rem;
+	height: 1.37rem;
+	/* background: red; */
+	float: left;
+}
+.pict3{
+	width: 1rem;
+	height: 1rem;
 	border-radius: 50%;
-	margin-top: -0.3rem;
 	float: left;
+	margin-top: -0.2rem;
 }
-.pict .pict-right{
+.box-baobao{
 	width: 1.3rem;
-	height: 0.5rem;
-	/* background: blue; */
-	margin-top: 0.32rem;
+	height: 0.8rem;
+	/* background: green; */
 	float: left;
-	margin-left: 0.3rem;
+	margin-top: 0.3rem;
+	margin-left: 0.4rem;
 }
-.baobao{
-	width: auto;
-	height: 100%;
-	font-size: 0.1rem;
-	line-height: 0.5rem;
-	color: #ccc;
-	float: left;	
+.box-baobao span{
+	font-size: 0.12rem;
+	line-height: 0.8rem;
+	float: left;
 }
-.baobao2{
+.box-bao1{
 	width: 0.24rem;
 	height: 0.24rem;
-	background: url('../img/hly-pic5.png') center center no-repeat;
-	background-size: 100%;
 	float: left;
 	margin-left: 0.1rem;
-	margin-top: 0.14rem;
-}
-.baobao3{
-	width: 0.24rem;
-	height: 0.24rem;
 	background: url('../img/hly-pic6.png') center center no-repeat;
 	background-size: 100%;
+	margin-top: 0.3rem;
+	margin-left: 0.1rem;
+	border-radius: 20%;
+}
+.box-bao2{
+	width: 0.24rem;
+	height: 0.24rem;
 	float: left;
 	margin-left: 0.1rem;
-	margin-top: 0.14rem;
+	background: url('../img/hly-pic5.png') center center no-repeat;
+	background-size: 100%;
+	margin-top: 0.3rem;
+	margin-left: 0.1rem;
+	border-radius: 20%;
 }
-.main{
-	width: 7rem;
-	height: 1.88rem;
-	/* background: pink; */
-	float: right;
-	border-top: 0.01rem solid #ccc;
-}
-.main-top{
+.box-next{
 	width: 100%;
-	height: 1.53rem;
+	height: 1.85rem;
+	/* background: orangered; */
+	float: left;
+}
+.box-next p{
+	font-size: 0.12rem;
+	margin-left: 0.3rem;
+}
+.box-nexttop{
+	width: 100%;
+	height: 1.5rem;
+	background: #fff;
+}
+.box-nexttop1{
+	width: 100%;
+	height: 0.46rem;
 	/* background: blue; */
 }
-.main-top1{
-	width: 5rem;
-	height: 0.53rem;
-	/* background: red; */
-
-}
-.pict4{
-	width: 0.46rem;
-	height: 0.46rem;
-	margin-top: 0.2rem;
-}
-.main-top1 span{
-	font-size: 0.12rem;
-	color: #000;
-}
-.ta{
-	font-size: 0.12rem;
+.box-nexttop1 .span1{
+	width: 0.23rem;
+	height: 0.23rem;
+	background: url('../img/hly-pic4.png') center center no-repeat;
+	background-size: 100%;
+	float: left;
 	margin-left: 0.2rem;
+	margin-top: 0.1rem;
+}
+.box-nexttop1 .span2{
+	font-size: 0.1rem;
+	line-height: 0.46rem;
+	float: left;
+	margin-left: 0.1rem;
+}
+
+
+.box-nexttop2{
+	width: 100%;
+	height: 0.46rem;
+	/* background: blue; */
+}
+.box-nexttop2 .span1{
+	width: 0.23rem;
+	height: 0.23rem;
+	background: url('../img/hly-pic7.png') center center no-repeat;
+	background-size: 100%;
+	float: left;
+	margin-left: 0.2rem;
+	margin-top: 0.1rem;
+}
+.box-nexttop2 .span2{
+	font-size: 0.1rem;
+	line-height: 0.46rem;
+	float: left;
+	margin-left: 0.2rem;
+}
+.box-nexttop2 .span3{
+	font-size: 0.08rem;
+	line-height: 0.46rem;
+	float: left;
+	margin-left: 0.1rem;
+	color: #ccc;
+	margin-left: 0.2rem;
+}
+
+.box-nexttop3{
+	width: 100%;
+	height: 0.46rem;
+	/* background: blue; */
+}
+.box-nexttop3 .span1{
+	width: 0.23rem;
+	height: 0.23rem;
+	background: url('../img/hly-pic8.png') center center no-repeat;
+	background-size: 100%;
+	float: left;
+	margin-left: 0.2rem;
+	margin-top: 0.1rem;
+}
+.box-nexttop3 .span2{
+	font-size: 0.1rem;
+	line-height: 0.46rem;
+	float: left;
+	margin-left: 0.2rem;
+}
+.box-nexttop3 .span3{
+	font-size: 0.08rem;
+	line-height: 0.46rem;
+	float: left;
+	margin-left: 0.1rem;
+	color: #ccc;
+	margin-left: 0.2rem;
+}
+.footer{
+	width: 7rem;
+	height: 0.7rem;
+	margin: 0;
+	border-radius: 0.2rem;
+	background: #FF6120;
+	font-size: 0.2rem;
+	text-align: center;
+	line-height: 0.7rem;
+	margin-top: 7rem;
+	margin-left: 0.24rem;
 }
