@@ -1,0 +1,106 @@
+.header{
+	width: 100%;
+	height: 0.88rem;
+	background: #FC313A;
+}
+.left{
+	width: 0.1rem;
+	height: 0.1rem;
+	float: left;
+	font-size: 0.3rem;
+	line-height:0.1rem;
+	text-align: center;
+	color: #fff; 
+	padding: 0.4rem 0.3rem;
+}
+.middle{
+	width: 3rem;
+	height: 100%;
+	float: left;
+	font-size: 0.3rem;
+	line-height: 0.88rem;
+	color: #fff;
+	margin-left:2.3rem;
+	font-weight: 600;
+	/* padding: 0.3rem 2.6rem; */
+}
+.right{
+	width: auto;
+	height: 100%;
+	float: right;
+	font-size: 0.14rem;
+	line-height: 100%;
+	color: #fff;
+	padding: 0.3rem 0.4rem;
+}
+a{
+	color: #fff;
+}
+.box{
+	width: 100%;
+	height: 0.67rem;
+	background: #F7F7F6;
+}
+.box .left{
+	width: 50%;
+	height: 100%;
+	background: #F7F7F6;
+	float: left;
+	font-size: 0.14rem;
+	text-align: center;
+	color: #5E5D58;
+}
+.box .right{
+	width: 50%;
+	height: 100%;
+	background: #ffffff;
+	float: right;
+	font-size: 0.14rem;
+	text-align: center;
+	color: #5E5D58;
+}
+.null{
+	width: 100%;
+	height: 3.83rem;
+	background: #F5F5F3;
+}
+.null .middle{
+	width: 7.3rem;
+	height: 3rem;
+	background: #FFFFFF;
+	margin-left: 0.1rem;
+	margin-top: 0.65rem;
+	border-radius: 0.2rem;
+}
+.null .middle .pict{
+	width: 2.86rem;
+	height: 1.1rem;
+	float: left;
+	background: red;
+	margin-left: 0.28rem;
+}
+.pict .pict-left{
+	width: 1.24rem;
+	height: 1.24rem;
+	background: url('../img/hly-pic3.png') center center no-repeat;
+	background-size: 100%;
+	border-radius: 50%;
+	margin-top: -0.3rem;
+	float: left;
+}
+.pict .pict-right{
+	width: 1.3rem;
+	height: 0.5rem;
+	background: blue;
+	margin-top: 0.32rem;
+	float: left;
+	margin-left: 0.3rem;
+}
+.pict-right .span{
+	width: 1rem;
+	height: 100%;
+	font-size: 0.1rem;
+	color: #ccc;
+	float: left;
+	
+}

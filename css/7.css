@@ -1,0 +1,161 @@
+body{
+	background: #f7f7f7;
+}
+.top{
+	width: 100%;
+	height: 0.88rem;
+	background: #fc313a;
+	position: relative;
+}
+.top p{
+	font-size: .4rem;
+	text-align: center;
+	line-height: 0.88rem;
+	color: #fff;
+	font-weight: 600;
+}
+.top-img{
+	width: 0.15rem;
+	height: 0.2rem;
+	background-image: url('../img/yj1.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 100%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	left: 0.25rem;
+}
+.bangzhu{
+	width: 0.75rem;
+	height: 0.21rem;
+
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	right: 0.25rem;
+	font-size: 0.24rem;
+	color: #fff;
+}
+.bangzhu i{
+	float: left;
+	font-size: 0.24rem;
+	color: #fff;
+	line-height: 0.21rem;
+}
+.banner{
+	width: 100%;
+	height: 3.54rem;
+	background: yellow;
+	position: relative;
+}
+.tu{
+	width: 100%;
+	height: 100%;
+}
+.kuang{
+	width: 4.26rem;
+	height: 1.71rem;
+	border: 2px solid #fff;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+}
+.mask{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, .3);
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.p1{
+	color: #fff;
+	text-align: center;
+	font-size: 0.36rem;
+	line-height: 1rem;
+}
+.p2{
+	color: #fff;
+	text-align: center;
+	font-size: 0.28rem;
+}
+.cheliang{
+	width: 100%;
+	height: 1.48rem;
+	background: #fff;
+}
+.cheliang1{
+	width: 100%;
+	height: 0.74rem;
+	font-size: 0.24rem;
+	text-align: center;
+	line-height: 0.74rem;
+	color: #000;
+}
+.cheliang1 i{
+	font-size: 0.4rem;
+	color: #ff2847;
+}
+.zuo{
+	width: 50%;
+	height: 100%;
+	float: left;
+	text-align: center;
+	line-height: 0.74rem;
+	color: #000;
+	font-size: 0.24rem;
+}
+.cheliang1 .zuo:nth-child(1){
+	background:#f7f7f7;
+}
+.cheliang1 .zuo:nth-child(2){
+	border-bottom: 3px solid #606060;
+}
+.zi{
+	width: 5.8rem;
+	height: 0.65rem;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	top: 9.3rem;
+	font-size: 0.3rem;
+	color: #4b5557;
+	text-align: center;
+	line-height: 0.65rem;
+}
+.icon{
+	width: 0.26rem;
+	height: 0.26rem;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	right: 0.7rem;
+	background-image: url('../img/yj_3.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 100%;
+}
+.fabu{
+	width: 3.82rem;
+	height: 0.7rem;
+	border-radius: 5px;
+	background:-webkit-linear-gradient(left,#fd313a,#fd8033);
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	top: 10.3rem;
+	font-size: 0.26rem;
+	text-align: center;
+	line-height: 0.7rem;
+	color: #fff;
+	font-weight: 600;
+}
