@@ -58,6 +58,10 @@ a{
 	font-size: 0.12rem;
 	text-align: center;
 	line-height: 0.67rem;
+<<<<<<< HEAD
+=======
+	border-bottom: 0.08rem solid red;
+>>>>>>> 29c59528ff60e096b2b65692de93da3bd9e7e797
 }
 
 
@@ -222,7 +226,11 @@ a{
 	height: 0.7rem;
 	margin: 0;
 	border-radius: 0.2rem;
+<<<<<<< HEAD
 	background: #FF6120;
+=======
+	background: linear-gradient(to left,#fd7f33,#fd313a);
+>>>>>>> 29c59528ff60e096b2b65692de93da3bd9e7e797
 	font-size: 0.2rem;
 	text-align: center;
 	line-height: 0.7rem;

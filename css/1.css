@@ -67,16 +67,27 @@ body{
 	height: 0.7rem;
 }
 label{
+<<<<<<< HEAD
 	padding:0 20px 0 0;
+=======
+>>>>>>> 29c59528ff60e096b2b65692de93da3bd9e7e797
 	height: 100%;
 	font-size: 0.24rem;
 	float: left;
 	line-height: 0.7rem;
+<<<<<<< HEAD
+=======
+	width: 1.5rem;
+>>>>>>> 29c59528ff60e096b2b65692de93da3bd9e7e797
 }
 
 input{
 	padding: 0 0 0 5px;
+<<<<<<< HEAD
 	width: 4rem;
+=======
+	width: 3rem;
+>>>>>>> 29c59528ff60e096b2b65692de93da3bd9e7e797
 	color: #b3b3b3;
 	font-size: 0.24rem;
 	float: left;
@@ -84,19 +95,26 @@ input{
 	line-height: 0.7rem;
 	outline: none;
 }
+<<<<<<< HEAD
 .zhanghao-nr .a{
 	padding: 0 0 0 30px;
 }
 .zhanghao-nr .b{
 	padding: 0 0 0 15px;
 }
+=======
+>>>>>>> 29c59528ff60e096b2b65692de93da3bd9e7e797
 .yanzhengma{
 	width: 1.54rem;
 	height: 0.48rem;
 	background: #fff;
 	border: 1px solid #bbbbbb;
 	margin-top: 0.1rem;
+<<<<<<< HEAD
 	float: left;
+=======
+	float: right;
+>>>>>>> 29c59528ff60e096b2b65692de93da3bd9e7e797
 	border-radius: 5px;
 	font-size: 0.24rem;
 	text-align: center;
@@ -160,4 +178,8 @@ input{
 	font-size: 0.22rem;
 	color: #a9a9a9;
 	text-align: center;
+<<<<<<< HEAD
+=======
+	font-weight: 700;
+>>>>>>> 29c59528ff60e096b2b65692de93da3bd9e7e797
 }

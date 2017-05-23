@@ -167,6 +167,10 @@ input{
 .tip p{
 	font-size: 0.22rem;
 	color: #a9a9a9;
+<<<<<<< HEAD
+=======
+	font-weight:700;
+>>>>>>> 29c59528ff60e096b2b65692de93da3bd9e7e797
 }
 .left{
 	float: left;
