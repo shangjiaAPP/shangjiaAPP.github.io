@@ -1,0 +1,180 @@
+body{
+    background: #f7f7f7;
+}
+.header{
+   width: 100%;
+    height: 0.88rem;
+    background: #FC313A;
+    padding: 0 20px;
+    position: relative;
+}
+.fanhuijiantou{
+    width: 0.3rem;
+    height: 0.3rem;
+    font-size: 0.3rem;
+    color: #fff;
+    line-height: 0.3rem;
+    float: left;
+    line-height: 0.88rem;
+}
+.header-zi{
+	float: left;
+	color: #fff;
+	font-size: 0.4rem;
+	text-align: center;
+	line-height: 0.88rem;
+	margin-left: 1.8rem;
+}
+.main{
+	width: 100%;
+	height: 2.2rem;
+	background: #fff;
+}
+.login{
+	width: 100%;
+	height: 0.66rem;
+}
+.login-zh{
+	width: 50%;
+	height: 100%;
+	background: #fff;
+	float: left;
+	font-size: 0.24rem;
+	text-align: center;
+	line-height: 0.66rem;
+	border-bottom: 2px solid #606060;
+}
+.login-yz{
+	width: 50%;
+	height: 100%;
+	float: left;
+	font-size: 0.24rem;
+	line-height: 0.66rem;
+	text-align: center;
+	background: #F7F7F7;
+}
+.zhanghao{
+	width: 100%;
+	height: 0.74rem;
+	padding:0 20px;
+	position: relative;
+}
+.tiao{
+	width: 7rem;
+	height: 0.02rem;
+	background: #F3F3F3; 
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin: auto;
+}
+.left-tiao{
+	width: 0.08rem;
+	height: 100%;
+	background: #AEAEAE;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.right-tiao{
+	width: 0.08rem;
+	height: 100%;
+	background: #AEAEAE;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.zhanghao-nr{
+	width: 100%;
+	height: 0.7rem;
+}
+label{
+	padding:0 20px 0 0;
+	height: 100%;
+	font-size: 0.24rem;
+	float: left;
+	line-height: 0.7rem;
+}
+
+input{
+	padding: 0 0 0 5px;
+	width: 4rem;
+	color: #b3b3b3;
+	font-size: 0.24rem;
+	float: left;
+	border: 0;
+	line-height: 0.7rem;
+	outline: none;
+}
+.anniu{
+	width: 7rem;
+	height: 0.7rem;
+	margin: auto;
+	margin-top: 0.5rem;
+	border-radius: 5px;
+	background: linear-gradient(to left, #FD7F33, #FD313A); /* 标准的语法 */;
+	color: #fff;
+	font-size: 0.26rem;
+	text-align: center;
+	line-height: 0.7rem;
+	font-weight: 700;
+}
+.anniu-zi{
+	width: 1.8rem;
+	height: 100%;
+	margin: auto;
+	position: relative;
+}
+.left-yuan{
+	width: 0.12rem;
+	height: 0.12rem;
+	background: #fd7172;
+	border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.right-yuan{
+	width: 0.12rem;
+	height: 0.12rem;
+	background: #fd7172;
+	border-radius: 50%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.xiao-yuan{
+	width: 0.06rem;
+	height: 0.06rem;
+	border-radius: 50%;
+	background: #fff;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.tip{
+    margin-top: 0.2rem;
+	padding: 0 25px;
+}
+.tip p{
+	font-size: 0.22rem;
+	color: #a9a9a9;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+img{
+	width: 0.3rem;
+	height: 0.3rem;
+}

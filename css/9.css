@@ -1,0 +1,90 @@
+body{
+	background: #f7f7f7;
+}
+.top{
+	width: 100%;
+	height: 0.88rem;
+	background: #fc313a;
+	position: relative;
+}
+.top p{
+	font-size: .4rem;
+	text-align: center;
+	line-height: 0.88rem;
+	color: #fff;
+	font-weight: 600;
+}
+.top-img{
+	width: 0.15rem;
+	height: 0.2rem;
+	background-image: url('../img/yj1.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 100%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	left: 0.25rem;
+}
+.bangzhu{
+	width: 0.75rem;
+	height: 0.21rem;
+
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	right: 0.25rem;
+	font-size: 0.24rem;
+	color: #fff;
+}
+.xinxi{
+	width: 100%;
+	height: 0.74rem;
+	margin-top: 0.5rem;
+	background: #fff;
+	padding-left: 0.27rem;
+	text-align: left;
+	line-height: 0.74rem;
+	color: #000;
+	font-size: 0.24rem;
+	border-bottom: 1px solid #f7f7f7;
+}
+.xinxi input,.xinxi1 input{
+	width: 100%;
+	height: 100%;
+	border: 0;
+	text-align: left;
+	line-height: 0.74rem;
+	color: #000;
+	font-size: 0.24rem;
+}
+.xinxi1{
+	width: 100%;
+	height: 0.74rem;
+	background: #fff;
+	padding-left: 0.27rem;
+	text-align: left;
+	line-height: 0.74rem;
+	color: #000;
+	font-size: 0.24rem;
+	border-bottom: 1px solid #f7f7f7;
+}
+.next{
+	width: 7.02rem;
+	height: 0.7rem;
+	background:-webkit-linear-gradient(left,#fd313a,#fd8033);
+	/* margin: 0 auto; */
+	border-radius: 5px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	bottom: 0.3rem;
+	font-size: 0.26rem;
+	text-align: center;
+	line-height: 0.7rem;
+	color: #fff;
+	font-weight: 600;
+}
