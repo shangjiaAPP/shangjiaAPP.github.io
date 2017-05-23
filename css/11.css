@@ -58,6 +58,7 @@ a{
 	font-size: 0.12rem;
 	text-align: center;
 	line-height: 0.67rem;
+	border-bottom: 0.08rem solid red;
 }
 
 
