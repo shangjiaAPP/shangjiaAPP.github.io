@@ -167,6 +167,7 @@ input{
 .tip p{
 	font-size: 0.22rem;
 	color: #a9a9a9;
+	font-weight:700;
 }
 .left{
 	float: left;
