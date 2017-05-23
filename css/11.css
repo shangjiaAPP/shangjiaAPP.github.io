@@ -222,7 +222,7 @@ a{
 	height: 0.7rem;
 	margin: 0;
 	border-radius: 0.2rem;
-	background: #FF6120;
+	background: linear-gradient(to left,#fd7f33,#fd313a);
 	font-size: 0.2rem;
 	text-align: center;
 	line-height: 0.7rem;
